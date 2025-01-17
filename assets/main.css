@@ -71,6 +71,15 @@ main {
     }
 }
 
+hr {
+    margin: 2rem 0;
+    border-top-width: 1px;
+    color: var(--fg);
+    opacity: 0.25;
+}
+
+p { margin-bottom: 1rem; font-weight: 300; }
+
 a { color: var(--links); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
