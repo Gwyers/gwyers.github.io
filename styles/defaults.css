@@ -34,6 +34,21 @@ body {
     line-height: 1.5;
 }
 
+main {
+    padding: 2rem 2rem;
+}
+
+main.content {
+    max-width: 666px;
+    margin: 0 auto;
+}
+
+main.content-left {
+    max-width: 333px;
+    padding-right: 0;
+    padding-bottom: 0;
+}
+
 h1 { display: block; font-size: 1.6rem; margin-bottom: 0.4em; font-weight: bold; }
 h2 { display: block; font-size: 1.5rem; margin-bottom: 1em; font-weight: bold; }
 h3 { display: block; font-size: 1.1rem; margin-bottom: 0.6em; font-weight: bold; }
