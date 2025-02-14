@@ -78,7 +78,7 @@ hr {
     opacity: 0.25;
 }
 
-p { margin-bottom: 1rem; font-weight: 300; }
+p { margin-bottom: 1rem; }
 
 a { color: var(--links); text-decoration: none; }
 a:hover { text-decoration: underline; }

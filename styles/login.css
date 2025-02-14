@@ -1,0 +1,22 @@
+/* about.gwyer.family
+styling for password-protected pages */
+
+@import url(/styles/defaults.css);
+
+input {
+    background-color: var(--code);
+    border: none;
+}
+  
+button {
+    background-color: var(--code);
+    color: var(--fg);
+    border: none;
+}
+
+footer {
+	margin-top: 0.5em;
+	text-align: center;
+	font-size: 80%;
+	opacity: 0.4;
+}
